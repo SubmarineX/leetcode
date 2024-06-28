@@ -16,3 +16,4 @@
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./algorithms/assign-cookies/assign-cookies.cc) | Easy | Array, Two Pointers, Greedy, Sorting |
 | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [C++](./algorithms/shortest-distance-to-a-character/shortest-distance-to-a-character.cc) | Easy | Array, Two Pointers, String |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [C++](./algorithms/flipping-an-image/flipping-an-image.cc) | Easy | Array, Two Pointers, Bit Manipulation, Matrix, Simulation |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./algorithms/sort-array-by-parity/sort-array-by-parity.cc) | Easy | Array, Two Pointers, Sorting |
