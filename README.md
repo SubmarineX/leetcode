@@ -10,3 +10,4 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/remove-element/remove-element.cc) | Easy | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./algorithms/merge-sorted-array/merge-sorted-array.cc) | Easy | Array, Two Pointers, Sorting |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cc) | Medium | Array, Two Pointers, Binary Search |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/move-zeroes/move-zeroes.cc) | Easy | Array, Two Pointers |
