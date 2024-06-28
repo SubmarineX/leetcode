@@ -14,3 +14,4 @@
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/intersection-of-two-arrays/intersection-of-two-arrays.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [C++](./algorithms/assign-cookies/assign-cookies.cc) | Easy | Array, Two Pointers, Greedy, Sorting |
+| 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [C++](./algorithms/shortest-distance-to-a-character/shortest-distance-to-a-character.cc) | Easy | Array, Two Pointers, String |
