@@ -20,3 +20,4 @@
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./algorithms/sort-array-by-parity-ii/sort-array-by-parity-ii.cc) | Easy | Array, Two Pointers, Sorting |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [C++](./algorithms/di-string-match/di-string-match.cc) | Easy | Array, Two Pointers, String, Greedy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [C++](./algorithms/duplicate-zeros/duplicate-zeros.cc) | Easy | Array, Two Pointers |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [C++](./algorithms/check-if-n-and-its-double-exist/check-if-n-and-its-double-exist.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
