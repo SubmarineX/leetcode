@@ -18,3 +18,4 @@
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [C++](./algorithms/flipping-an-image/flipping-an-image.cc) | Easy | Array, Two Pointers, Bit Manipulation, Matrix, Simulation |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./algorithms/sort-array-by-parity/sort-array-by-parity.cc) | Easy | Array, Two Pointers, Sorting |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./algorithms/sort-array-by-parity-ii/sort-array-by-parity-ii.cc) | Easy | Array, Two Pointers, Sorting |
+| 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [C++](./algorithms/di-string-match/di-string-match.cc) | Easy | Array, Two Pointers, String, Greedy |
