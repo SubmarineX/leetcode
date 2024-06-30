@@ -22,3 +22,4 @@
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [C++](./algorithms/duplicate-zeros/duplicate-zeros.cc) | Easy | Array, Two Pointers |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [C++](./algorithms/check-if-n-and-its-double-exist/check-if-n-and-its-double-exist.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [C++](./algorithms/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cc) | Easy | Array, Two Pointers, Binary Search, Sorting |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [C++](./algorithms/check-if-string-is-a-prefix-of-array/check-if-string-is-a-prefix-of-array.cc) | Easy | Array, Two Pointers, String |
