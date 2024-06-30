@@ -21,3 +21,4 @@
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [C++](./algorithms/di-string-match/di-string-match.cc) | Easy | Array, Two Pointers, String, Greedy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [C++](./algorithms/duplicate-zeros/duplicate-zeros.cc) | Easy | Array, Two Pointers |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [C++](./algorithms/check-if-n-and-its-double-exist/check-if-n-and-its-double-exist.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [C++](./algorithms/find-the-distance-value-between-two-arrays/find-the-distance-value-between-two-arrays.cc) | Easy | Array, Two Pointers, Binary Search, Sorting |
