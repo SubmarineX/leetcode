@@ -31,3 +31,4 @@
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [C++](./algorithms/number-of-distinct-averages/number-of-distinct-averages.cc) | Easy | Array, Hash Table, Two Pointers, Sorting |
 | 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [C++](./algorithms/maximum-enemy-forts-that-can-be-captured/maximum-enemy-forts-that-can-be-captured.cc) | Easy | Array, Two Pointers |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [C++](./algorithms/minimum-common-value/minimum-common-value.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search |
+| 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | [C++](./algorithms/find-the-array-concatenation-value/find-the-array-concatenation-value.cc) | Easy | Array, Two Pointers, Simulation |
