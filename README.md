@@ -15,6 +15,7 @@
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./algorithms/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cc) | Medium | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./algorithms/merge-sorted-array/merge-sorted-array.cc) | Easy | Array, Two Pointers, Sorting |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cc) | Medium | Array, Two Pointers, Binary Search |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [C++](./algorithms/rotate-array/rotate-array.cc) | Medium | Array, ath, Two Pointers |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/move-zeroes/move-zeroes.cc) | Easy | Array, Two Pointers |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/intersection-of-two-arrays/intersection-of-two-arrays.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.cc) | Easy | Array, Hash Table, Two Pointers, Binary Search, Sorting |
