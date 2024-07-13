@@ -12,6 +12,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/remove-element/remove-element.cc) | Easy | Array, Two Pointers |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](./algorithms/next-permutation/next-permutation.cc) | Medium | Array, Two Pointers |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [C++](./algorithms/sort-colors/sort-colors.cc) | Medium | Array, Two Pointers, Sorting |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](./algorithms/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cc) | Medium | Array, Two Pointers |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./algorithms/merge-sorted-array/merge-sorted-array.cc) | Easy | Array, Two Pointers, Sorting |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cc) | Medium | Array, Two Pointers, Binary Search |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [C++](./algorithms/move-zeroes/move-zeroes.cc) | Easy | Array, Two Pointers |
