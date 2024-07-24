@@ -28,6 +28,8 @@ class Solution {
    * cycles in a linked list but can be adapted for this problem since the
    * presence of a duplicate number implies a cycle in the "linked list" formed
    * by treating array indices as pointers.
+   * [Floyd's Tortoise and Hare]
+   * [Fast Slow Pointers]
    */
   int findDuplicate(vector<int>& nums) {
     int tortoise = nums[0];
@@ -53,6 +55,8 @@ class Solution {
    * number of elements less than or equal to a certain value, we can
    * progressively narrow down the range that might contain the duplicate
    * number.
+   * [Binary Search]
+   * [Pigeonhole Principle]
    */
   int findDuplicate(vector<int>& nums) {
     int low = 1;
@@ -70,5 +74,12 @@ class Solution {
     }
 
     return low;
+  }
+
+  /**
+   * [Bit Manipulation]
+   */
+  int findDuplicate(vector<int>& nums) {
+    // TODO: findDuplicate
   }
 };
