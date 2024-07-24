@@ -4,6 +4,7 @@
 |    # | Title | Solution | Difficulty | Topic Tags |
 | ---: | ----- | -------- | ---------- | ---------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](./algorithms/two-sum/two-sum.cc) | Easy | Array, Hash Table |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./algorithms/palindrome-number/palindrome-number.cc) | Easy | Math |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./algorithms/container-with-most-water/container-with-most-water.cc) | Medium | Array, Two Pointers, Greedy |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [C++](./algorithms/3sum/3sum.cc) | Medium | Array, Two Pointers, Sorting |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./algorithms/3sum-closest/3sum-closest.cc) | Medium | Array, Two Pointers, Sorting |
